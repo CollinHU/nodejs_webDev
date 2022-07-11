@@ -1,0 +1,8 @@
+{
+  "apiUrl": "http://localhost/api",
+  "format": {
+    "timeZone": "Asia/Shanghai",
+    "dateTime": "YYYY-MM-DD HH:mm:ss",
+    "pickerDateTime": "yyyy-MM-dd HH:mm"
+  }
+}
